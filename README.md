@@ -19,7 +19,6 @@ Ele pode ser implementado como um site, aplicativo ou funcionalidade dentro de u
 ✅ Seleção de moedas de origem e destino (ex: USD → BRL).
 ✅ Atualização em tempo real das taxas de câmbio.
 ✅ Conversão instantânea ao inserir um valor.
-✅ Gráficos históricos de variação cambial (opcional).
 ✅ Suporte a múltiplas moedas
 
 ## 🛠️ Tecnologias Usadas
