@@ -15,6 +15,7 @@ Um Conversor de Moedas é uma ferramenta que permite converter valores de uma mo
 Ele pode ser implementado como um site, aplicativo ou funcionalidade dentro de uma plataforma financeira.
 
 ## Funcionalidades Principais:
+
 ✅ Seleção de moedas de origem e destino (ex: USD → BRL)
 ✅ Atualização em tempo real das taxas de câmbio
 ✅ Conversão instantânea ao inserir um valor
