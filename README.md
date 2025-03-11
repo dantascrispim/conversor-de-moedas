@@ -16,10 +16,10 @@ Ele pode ser implementado como um site, aplicativo ou funcionalidade dentro de u
 
 ## Funcionalidades Principais:
 
-✅ Seleção de moedas de origem e destino (ex: USD → BRL)
-✅ Atualização em tempo real das taxas de câmbio
-✅ Conversão instantânea ao inserir um valor
-✅ Gráficos históricos de variação cambial (opcional)
+✅ Seleção de moedas de origem e destino (ex: USD → BRL).
+✅ Atualização em tempo real das taxas de câmbio.
+✅ Conversão instantânea ao inserir um valor.
+✅ Gráficos históricos de variação cambial (opcional).
 ✅ Suporte a múltiplas moedas
 
 ## 🛠️ Tecnologias Usadas
@@ -27,7 +27,7 @@ Ele pode ser implementado como um site, aplicativo ou funcionalidade dentro de u
   - CSS: Para deixar tudo bonito e responsivo.
   - JavaScript: Para adicionar aquela interatividade.
   - VERCEL: Onde meu portfólio está hospedado.
-  - 
+  
 ## Como contribuir
 
    Se deseja contribuir com melhorias ou corrigir possíveis problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
